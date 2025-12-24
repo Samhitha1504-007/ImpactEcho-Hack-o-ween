@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "ngo_name": "dash",
+        "type": "contract_generated",
+        "message": "\ud83d\udcc4 Your partnership contract has been generated. Please download, sign, and upload it back.",
+        "metadata": {
+            "contract_id": 1,
+            "filename": "contract_5_20251025231551.pdf"
+        },
+        "read": true,
+        "timestamp": "2025-10-25T23:15:51.974113"
+    },
+    {
+        "id": 2,
+        "ngo_name": "dash",
+        "type": "contract_approved",
+        "message": "\u2705 Your signed contract has been approved! Your partnership with ImpactEcho is now active.",
+        "metadata": {
+            "contract_id": 1
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:33:40.862654"
+    },
+    {
+        "id": 3,
+        "ngo_name": "dash",
+        "type": "contract_generated",
+        "message": "\ud83d\udcc4 Your partnership contract has been generated. Please download, sign, and upload it back.",
+        "metadata": {
+            "contract_id": 2,
+            "filename": "contract_5_20251025233749.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:37:49.930349"
+    },
+    {
+        "id": 4,
+        "ngo_name": "dash",
+        "type": "contract_rejected",
+        "message": "\u274c Your signed contract has been rejected. Reason: trash you are. Please contact admin for clarification.",
+        "metadata": {
+            "contract_id": 2,
+            "reason": "trash you are"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:38:52.406923"
+    },
+    {
+        "id": 5,
+        "ngo_name": "dash",
+        "type": "contract_generated",
+        "message": "\ud83d\udcc4 Your partnership contract has been generated. Please download, sign, and upload it back.",
+        "metadata": {
+            "contract_id": 3,
+            "filename": "contract_5_20251025234049.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:40:49.740926"
+    },
+    {
+        "id": 6,
+        "ngo_name": "dash",
+        "type": "contract_approved",
+        "message": "\u2705 Your signed contract has been approved! Your partnership with ImpactEcho is now active.",
+        "metadata": {
+            "contract_id": 3
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:43:53.637861"
+    },
+    {
+        "id": 7,
+        "ngo_name": "dash",
+        "type": "contract_generated",
+        "message": "\ud83d\udcc4 Your partnership contract has been generated. Please download, sign, and upload it back.",
+        "metadata": {
+            "contract_id": 4,
+            "filename": "contract_5_20251025234607.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:46:07.268789"
+    },
+    {
+        "id": 8,
+        "ngo_name": "dash",
+        "type": "contract_rejected",
+        "message": "\u274c Your signed contract has been rejected. Reason: fuck you. Please contact admin for clarification.",
+        "metadata": {
+            "contract_id": 4,
+            "reason": "fuck you"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:47:20.064740"
+    },
+    {
+        "id": 9,
+        "ngo_name": "yes",
+        "type": "payment_approved",
+        "message": "\u2705 Your payment request of \u20b994.00 has been approved! Funds will be transferred shortly.",
+        "metadata": {
+            "request_id": 4,
+            "amount": 94.0
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:49:22.781289"
+    },
+    {
+        "id": 10,
+        "ngo_name": "yes",
+        "type": "cause_deleted",
+        "message": "Your cause deletion request has been approved. Cause removed from dashboard.",
+        "metadata": {
+            "cause_id": 4
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:51:35.100771"
+    },
+    {
+        "id": 11,
+        "ngo_name": "arch",
+        "type": "cause_completed",
+        "message": "\ud83c\udf89 Your cause 'cars' has reached its funding goal of \u20b970,000!",
+        "metadata": {
+            "cause_id": 8,
+            "cause_title": "cars",
+            "goal": 70000
+        },
+        "read": false,
+        "timestamp": "2025-10-26T00:41:19.451398"
+    }
+]

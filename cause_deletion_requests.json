@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "cause_id": 4,
+        "ngo_name": "yes",
+        "reason": "just like that",
+        "status": "approved",
+        "timestamp": "2025-10-25T23:51:04.205658",
+        "approved_at": "2025-10-25T23:51:35.100073"
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "ngo_name": true,
+        "cause_id": 4,
+        "amount_requested": 419.0,
+        "bills": [
+            "bill_4_20251025223534_real bill.jpg"
+        ],
+        "ai_result": {
+            "verdict": "GENUINE",
+            "confidence": 75,
+            "risk_level": "LOW",
+            "analysis": "\ud83e\udd16 AI Analysis Complete: 1 bill(s) analyzed for \u20b9419.00 request.\n\ud83d\udcca Verification Score: 75/100 (LOW Risk)\n\ud83d\udcb0 Amount Verification: Extracted \u20b9373.08 from bills (Difference: \u20b945.92)\n\n\u2713 PASSED CHECKS (3):\n  \u2713 Bill amounts match requested amount\n  \u2713 All bills in valid format (JPG/PNG/PDF)\n  \u2713 All bills have reasonable file sizes\n\n\u26a0\ufe0f WARNINGS (4):\n  \u26a0 Only 1 bill provided - multiple bills increase credibility\n  \u26a0 Very small amount requested (< \u20b91,000)\n  \u26a0 Some bills have very small amounts\n\n\ud83d\udccb Recommendation: \u2705 Recommended for approval",
+            "bill_count": 1,
+            "amount_requested": 419.0,
+            "amount_extracted": 373.08,
+            "amount_difference": 45.920000000000016,
+            "checks_passed": [
+                "\u2713 Bill amounts match requested amount",
+                "\u2713 All bills in valid format (JPG/PNG/PDF)",
+                "\u2713 All bills have reasonable file sizes"
+            ],
+            "checks_failed": [],
+            "warnings": [
+                "\u26a0 Only 1 bill provided - multiple bills increase credibility",
+                "\u26a0 Very small amount requested (< \u20b91,000)",
+                "\u26a0 Some bills have very small amounts",
+                "\u26a0 Inconsistent metadata detected"
+            ],
+            "recommendation": "\u2705 Recommended for approval",
+            "detailed_breakdown": {
+                "amount_verification": "25/25",
+                "bill_count": "8/15",
+                "amount_range": "10/15",
+                "file_format": "10/10",
+                "file_size": "10/10",
+                "distribution": "5/10",
+                "individual_amounts": "5/10",
+                "metadata": "2/5"
+            }
+        },
+        "status": "pending_admin_review",
+        "timestamp": "2025-10-25T22:35:37.942781"
+    },
+    {
+        "id": 2,
+        "ngo_name": true,
+        "cause_id": 4,
+        "amount_requested": 73.0,
+        "bills": [
+            "bill_4_20251025224008_real bill 2.jpeg"
+        ],
+        "ai_result": {
+            "verdict": "NEEDS_REVIEW",
+            "confidence": 73,
+            "risk_level": "MEDIUM",
+            "analysis": "\ud83e\udd16 AI Analysis Complete: 1 bill(s) analyzed for \u20b973.00 request.\n\ud83d\udcca Verification Score: 73/100 (MEDIUM Risk)\n\ud83d\udcb0 Amount Verification: Extracted \u20b975.30 from bills (Difference: \u20b92.30)\n\n\u2713 PASSED CHECKS (3):\n  \u2713 Bill amounts match requested amount\n  \u2713 All bills in valid format (JPG/PNG/PDF)\n  \u2713 Bill metadata appears consistent\n\n\u26a0\ufe0f WARNINGS (4):\n  \u26a0 Only 1 bill provided - multiple bills increase credibility\n  \u26a0 Very small amount requested (< \u20b91,000)\n  \u26a0 Some bills have unusual file sizes\n\n\ud83d\udccb Recommendation: \u26a0\ufe0f Manual review recommended before approval",
+            "bill_count": 1,
+            "amount_requested": 73.0,
+            "amount_extracted": 75.3,
+            "amount_difference": 2.299999999999997,
+            "checks_passed": [
+                "\u2713 Bill amounts match requested amount",
+                "\u2713 All bills in valid format (JPG/PNG/PDF)",
+                "\u2713 Bill metadata appears consistent"
+            ],
+            "checks_failed": [],
+            "warnings": [
+                "\u26a0 Only 1 bill provided - multiple bills increase credibility",
+                "\u26a0 Very small amount requested (< \u20b91,000)",
+                "\u26a0 Some bills have unusual file sizes",
+                "\u26a0 Some bills have very small amounts"
+            ],
+            "recommendation": "\u26a0\ufe0f Manual review recommended before approval",
+            "detailed_breakdown": {
+                "amount_verification": "25/25",
+                "bill_count": "8/15",
+                "amount_range": "10/15",
+                "file_format": "10/10",
+                "file_size": "5/10",
+                "distribution": "5/10",
+                "individual_amounts": "5/10",
+                "metadata": "5/5"
+            }
+        },
+        "status": "pending_admin_review",
+        "timestamp": "2025-10-25T22:40:08.868343"
+    },
+    {
+        "id": 3,
+        "ngo_name": true,
+        "cause_id": 4,
+        "amount_requested": 94.0,
+        "bills": [
+            "bill_4_20251025224025_real bill 3.jpeg"
+        ],
+        "ai_result": {
+            "verdict": "NEEDS_REVIEW",
+            "confidence": 73,
+            "risk_level": "MEDIUM",
+            "analysis": "\ud83e\udd16 AI Analysis Complete: 1 bill(s) analyzed for \u20b994.00 request.\n\ud83d\udcca Verification Score: 73/100 (MEDIUM Risk)\n\ud83d\udcb0 Amount Verification: Extracted \u20b9107.86 from bills (Difference: \u20b913.86)\n\n\u2713 PASSED CHECKS (3):\n  \u2713 Bill amounts match requested amount\n  \u2713 All bills in valid format (JPG/PNG/PDF)\n  \u2713 Bill metadata appears consistent\n\n\u26a0\ufe0f WARNINGS (4):\n  \u26a0 Only 1 bill provided - multiple bills increase credibility\n  \u26a0 Very small amount requested (< \u20b91,000)\n  \u26a0 Some bills have unusual file sizes\n\n\ud83d\udccb Recommendation: \u26a0\ufe0f Manual review recommended before approval",
+            "bill_count": 1,
+            "amount_requested": 94.0,
+            "amount_extracted": 107.86,
+            "amount_difference": 13.86,
+            "checks_passed": [
+                "\u2713 Bill amounts match requested amount",
+                "\u2713 All bills in valid format (JPG/PNG/PDF)",
+                "\u2713 Bill metadata appears consistent"
+            ],
+            "checks_failed": [],
+            "warnings": [
+                "\u26a0 Only 1 bill provided - multiple bills increase credibility",
+                "\u26a0 Very small amount requested (< \u20b91,000)",
+                "\u26a0 Some bills have unusual file sizes",
+                "\u26a0 Some bills have very small amounts"
+            ],
+            "recommendation": "\u26a0\ufe0f Manual review recommended before approval",
+            "detailed_breakdown": {
+                "amount_verification": "25/25",
+                "bill_count": "8/15",
+                "amount_range": "10/15",
+                "file_format": "10/10",
+                "file_size": "5/10",
+                "distribution": "5/10",
+                "individual_amounts": "5/10",
+                "metadata": "5/5"
+            }
+        },
+        "status": "pending_admin_review",
+        "timestamp": "2025-10-25T22:40:26.158186"
+    },
+    {
+        "id": 4,
+        "ngo_name": "yes",
+        "cause_id": 4,
+        "amount_requested": 94.0,
+        "bills": [
+            "bill_4_20251025234831_real bill 3.jpeg"
+        ],
+        "ai_result": {
+            "verdict": "NEEDS_REVIEW",
+            "confidence": 73,
+            "risk_level": "MEDIUM",
+            "analysis": "\ud83e\udd16 AI Analysis Complete: 1 bill(s) analyzed for \u20b994.00 request.\n\ud83d\udcca Verification Score: 73/100 (MEDIUM Risk)\n\ud83d\udcb0 Amount Verification: Extracted \u20b9100.27 from bills (Difference: \u20b96.27)\n\n\u2713 PASSED CHECKS (3):\n  \u2713 Bill amounts match requested amount\n  \u2713 All bills in valid format (JPG/PNG/PDF)\n  \u2713 Bill metadata appears consistent\n\n\u26a0\ufe0f WARNINGS (4):\n  \u26a0 Only 1 bill provided - multiple bills increase credibility\n  \u26a0 Very small amount requested (< \u20b91,000)\n  \u26a0 Some bills have unusual file sizes\n\n\ud83d\udccb Recommendation: \u26a0\ufe0f Manual review recommended before approval",
+            "bill_count": 1,
+            "amount_requested": 94.0,
+            "amount_extracted": 100.27,
+            "amount_difference": 6.269999999999996,
+            "checks_passed": [
+                "\u2713 Bill amounts match requested amount",
+                "\u2713 All bills in valid format (JPG/PNG/PDF)",
+                "\u2713 Bill metadata appears consistent"
+            ],
+            "checks_failed": [],
+            "warnings": [
+                "\u26a0 Only 1 bill provided - multiple bills increase credibility",
+                "\u26a0 Very small amount requested (< \u20b91,000)",
+                "\u26a0 Some bills have unusual file sizes",
+                "\u26a0 Some bills have very small amounts"
+            ],
+            "recommendation": "\u26a0\ufe0f Manual review recommended before approval",
+            "detailed_breakdown": {
+                "amount_verification": "25/25",
+                "bill_count": "8/15",
+                "amount_range": "10/15",
+                "file_format": "10/10",
+                "file_size": "5/10",
+                "distribution": "5/10",
+                "individual_amounts": "5/10",
+                "metadata": "5/5"
+            }
+        },
+        "status": "approved",
+        "timestamp": "2025-10-25T23:48:31.644209",
+        "approved_at": "2025-10-25T23:49:22.779226",
+        "approved_by": true
+    }
+]

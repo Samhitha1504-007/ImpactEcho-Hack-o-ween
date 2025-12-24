@@ -1,0 +1,36 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.16.128.30:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-299-240
+127.0.0.1 - - [25/Oct/2025 23:01:01] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/adityasinghal/Developer/hackowwn/ImpactEcho---Hackoween/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 105-299-240
+127.0.0.1 - - [25/Oct/2025 23:01:23] "GET /ngo-dashboard HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:23] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:23] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:23] "GET /ngo-my-requests HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:23] "GET /ngo-notifications HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:26] "GET /ngo-notifications HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:27] "[32mGET /ngo-logout HTTP/1.1[0m" 302 -
+127.0.0.1 - - [25/Oct/2025 23:01:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:27] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:32] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:34] "GET /static/logo.png HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:49] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:51] "GET /ngo-login HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:51] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:55] "POST /ngo-auth HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:55] "GET /ngo-dashboard HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:55] "[36mGET /static/style2.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:55] "[36mGET /static/logo.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [25/Oct/2025 23:01:56] "GET /ngo-my-requests HTTP/1.1" 200 -
+127.0.0.1 - - [25/Oct/2025 23:01:56] "GET /ngo-notifications HTTP/1.1" 200 -

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "message": "\ud83d\udcc4 NGO 'dash' has uploaded their signed contract and is awaiting your review.",
+        "metadata": {
+            "contract_id": 2,
+            "ngo_name": "dash",
+            "filename": "signed_contract_2_20251025233823_contract_5_20251025231551.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:38:23.414975"
+    },
+    {
+        "id": 2,
+        "message": "\ud83d\udcc4 NGO 'dash' has uploaded their signed contract and is awaiting your review.",
+        "metadata": {
+            "contract_id": 3,
+            "ngo_name": "dash",
+            "filename": "signed_contract_3_20251025234201_contract_5_20251025234049.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:42:01.233137"
+    },
+    {
+        "id": 3,
+        "message": "\ud83d\udcc4 NGO 'dash' has uploaded their signed contract and is awaiting your review.",
+        "metadata": {
+            "contract_id": 4,
+            "ngo_name": "dash",
+            "filename": "signed_contract_4_20251025234651_contract_5_20251025231551.pdf"
+        },
+        "read": false,
+        "timestamp": "2025-10-25T23:46:51.366849"
+    }
+]
